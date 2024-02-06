@@ -2,7 +2,7 @@
 
 
           Soy un desarrollador FullStack 💻 con experiencia en Javascript,
-          Typescript, Tailwind, React, Redux y Sequalize. He participado en
+          Typescript, Tailwind, React, Redux, Node.JS, PostgresSQL y Sequalize. He participado en
           proyectos que destacan por interfaces intuitivas, gestión de estado
           global, integración de API y manejo de bases de datos, brindando una
           sólida base en las últimas tecnologías web.
